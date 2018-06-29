@@ -9,3 +9,5 @@ Gostou do curso e quer mais ? Ajude com um café :)
 
 
 Testando mudanças após inserir arquivo no GITHUB.
+
+após criar o tag (release ) e mando para web pelo push nos criamos esssa alteração
