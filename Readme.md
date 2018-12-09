@@ -14,6 +14,3 @@ após criar o tag (release ) e mando para web pelo push nos criamos esssa altera
 
 
 Teste de deploy auto na integração com jenkins.
-
-
-Teste de deploy auto na integração com jenkins.
