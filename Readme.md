@@ -13,4 +13,4 @@ Testando mudanças após inserir arquivo no GITHUB.
 após criar o tag (release ) e mando para web pelo push nos criamos esssa alteração
 
 
-Teste de deploy auto na integração com jenkins
+Teste de deploy auto na integração com jenkins.
